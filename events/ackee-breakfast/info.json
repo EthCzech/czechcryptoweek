@@ -1,0 +1,15 @@
+{
+  "name": "ETH Prague isn't over: Ackee Breakfast Meetup",
+  "date": "May 30, 2025",
+  "short_description": "A breakfast meetup with web3 enthusiasts & blockchain security experts.",
+  "website": "https://lu.ma/xzl8rjmt",
+  "location": "Prague",
+  "description": "Stop by for a morning snack and chat with fellow web3 enthusiasts and blockchain security experts. Join us at Ackee's spacious office in BLOCK Karlín, just minutes from the ETH Prague venue.",
+  "organizers": ["myrsple", "Ackee Blockchain Security"],
+  "venue": {
+    "name": "BLOCK Karlín",
+    "address": "Rohanské nábř. 717/4, 186 00 Praha 8-Karlín, Czechia",
+    "map": "https://maps.app.goo.gl/8sMjkXuSxdn7gk8w9"
+  },
+  "tags": ["Meetup", "Breakfast", "Networking", "Security"]
+} 
