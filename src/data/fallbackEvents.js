@@ -479,5 +479,24 @@ export const fallbackEvents = [
     description: "**Alternative Currencies Breakfast, hosted by Circles @ ETHPrague**\n\nBitcoin promised to be a new censorship resistant form of money, but it turned out to be a store of value rather than a medium of exchange.\n\nWe're hosting a breakfast for those working on, and those interested in learning more about newer forms of money that are better and fairer.\n\nJoin us for a cozy breakfast gathering to discuss these topics with like-minded folks over coffee and good food.\n\nAll attendees will get a chance to be one of the first ones to be onboarded to Circles, a new fairer form of money launched on 21st May 2025, right on the spot.\n\nOur co-founder **Friederike Ernst** will also be joining us - if you watched her talk the day before (or even if you missed it), come meet her in person and continue the conversation.\n\nMore about us: www.aboutcircles.com",
     organizers: ["Circles", "Gnosis"],
     tags: ["Meetup"]
+  },
+  {
+    id: "ethprague-afterparty",
+    name: "ETHPragueConf 2025 Afterparty",
+    date: "May 29, 2025",
+    dateISO: "2025-05-29",
+    time: "7:00 PM - 1:00 AM",
+    short_description: "Keep the ETHPragueConf energy going and join us for the official afterparty at Bike Jesus!",
+    description: "Keep the ETHPragueConf energy going and join us for the official afterparty at Bike Jesus!\n\nFeaturing Justin Holmes Band and Band No.7 with Original Blockchain Bluegrass, Songs of Surveillance, and highly technical string band music in the spirit of the early deadhead+cypherpunk meetups. Featuring Czech musicians and a few Czech traditionals!",
+    organizers: ["EthereumCzech"],
+    website: "https://lu.ma/c220b4to",
+    tickets: "https://lu.ma/c220b4to",
+    confirmed: true,
+    location: "Prague",
+    venue: {
+      name: "Bike Jesus",
+      address: "ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia"
+    },
+    tags: ["Social"]
   }
 ]; 
