@@ -1,0 +1,19 @@
+{
+  "id": "builder-nights-prague",
+  "name": "Builder Nights Prague - Presented by MetaMask 🦊, Linea and Ackee",
+  "date": "May 30, 2025",
+  "dateISO": "2025-05-30",
+  "time": "5:00 PM - 10:00 PM CEST",
+  "short_description": "Join us for an evening of insightful discussions with Web3 thought leaders, networking with builders, and expanding your knowledge of the hottest industry topics.",
+  "website": "https://lu.ma/bnprague",
+  "tickets": "https://lu.ma/bnprague",
+  "confirmed": true,
+  "location": "Prague",
+  "description": "\"Builder night is the hottest web3 event series 🔥\", _Cointelegraph_\n\nOrganized by Francesco Andreoli 🦊, DevRel at Consensys\n\nWe are thrilled to announce our Builder Nights! Over the past two years, we've been incredibly fortunate to foster communities across five continents and host top Web3 thought leaders. Our list of guests have included **_Vitalik Buterin_**, **_Yat Siu_**, **_Joe Lubin_**, **_Dan Finlay_**, and many others.\n\nImmerse yourself in insightful discussions with the biggest brains in the Web3 game, network with other giga 🧠, and expand your knowledge of one of the hottest industry topics. The evening promises to be filled with builder insights and ample networking opportunities! 🤝\n\n**Details:**\n\n⏰ Time: 5:00PM - 10:00PM\n📍 Venue: Register to see address\n🎪 Free entry\n\n**Agenda**\n\n* 6:00PM – Registration & Welcome! 🎟️🙌\n* 8:00PM – Developer Tooling panel\n* 9:00PM – Networking and more\n* 11:00PM – Closing\n\n**About Event Partners**\n\n**About MetaMask**\nMetaMask is the world's leading self-custody web3 platform with 19 million monthly active users. Developed by Consensys, MetaMask is the most beloved and trusted way a global user base relies on to mint and collect NFTs, join DAOs, play games and participate in DeFi protocols.\n\n**About Linea**\nLinea is a developer-ready zkEVM rollup for scaling Ethereum dapps. It combines the power of zero-knowledge proofs with full Ethereum Virtual Machine (EVM) equivalence, allowing builders to create scalable decentralized applications (dapps) or migrate existing ones without the hassle of changing code or rewriting smart contracts.\n\n**About Ackee Blockchain Security**\nTeam of industry-leading auditors performing security audits and creating open-source dev tools. We contribute to a stronger blockchain ecosystem by providing security services, tooling and education. Partners of Lido, AAVE, Safe, Axelar, and more.",
+  "organizers": ["MetaMask", "Linea", "Ackee Blockchain Security", "Francesco Andreoli"],
+  "tags": ["Meetup", "Networking", "Developer", "Web3", "Layer2", "ETHGlobal Side Event"],
+  "venue": {
+    "name": "Register to See Address",
+    "address": "Hlavní město Praha, Hlavní město Praha"
+  }
+} 

@@ -438,5 +438,18 @@
     "confirmed": true,
     "location": "Prague",
     "tags": ["Meetup", "Accelerator", "Networking", "ETHPrague Side Event"]
+  },
+  {
+    "id": "builder-nights-prague",
+    "name": "Builder Nights Prague - Presented by MetaMask 🦊, Linea and Ackee",
+    "date": "May 30, 2025",
+    "dateISO": "2025-05-30",
+    "time": "5:00 PM - 10:00 PM CEST",
+    "short_description": "Join us for an evening of insightful discussions with Web3 thought leaders, networking with builders, and expanding your knowledge of the hottest industry topics.",
+    "website": "https://lu.ma/bnprague",
+    "tickets": "https://lu.ma/bnprague",
+    "confirmed": true,
+    "location": "Prague",
+    "tags": ["Meetup", "Networking", "Developer", "Web3", "Layer2", "ETHGlobal Side Event"]
   }
 ]
