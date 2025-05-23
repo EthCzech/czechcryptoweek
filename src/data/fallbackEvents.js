@@ -1,17 +1,22 @@
 export const fallbackEvents = [
   {
     id: "kickoff2025",
-    name: "ETHPrague & Czech Crypto Week Kick-off",
+    name: "Czech Crypto Week Opening Party",
     date: "May 26, 2025",
     dateISO: "2025-05-26",
-    short_description: "The official opening event of Czech Crypto Week and ETHPrague.",
-    website: "https://ethprague.com",
-    tickets: "https://tix.ducttape.events/dt/ethpragueconf25/",
+    time: "6:00 PM - 10:00 PM",
+    short_description: "Kick off Czech Crypto Week with a relaxed, decentralized hangout! Join fellow crypto enthusiasts already in Prague for an informal evening of networking and conversations over drinks.",
+    website: "https://lu.ma/9vy7mej1",
+    tickets: "https://lu.ma/9vy7mej1",
     confirmed: true,
     location: "Prague",
-    description: "Join us for the official kick-off of Czech Crypto Week and ETHPrague 2025. Meet fellow attendees, speakers, and organizers while getting an overview of the exciting week ahead.",
-    organizers: ["ETHPrague Team", "EthCzech Community"],
-    tags: ["Social", "Community", "Opening"]
+    description: "Kick off Czech Crypto Week with a relaxed, decentralized hangout! Join fellow crypto enthusiasts already in Prague for an informal evening of networking and conversations over drinks.\n\n📅 Monday, May 26th, 2025\n🕕 6:00 PM\n📍 Dva Kohouti, Prague 8\n\nThis is a casual meetup where everyone covers their own drinks and food. Perfect for winding down before the week's main events and connecting with the community in a laid-back atmosphere.\n\nWhether you're here for ETHPrague, other conferences, or just love crypto - come hang out with like-minded people and start the week right!",
+    organizers: ["EthCzech Community"],
+    tags: ["Social", "Community", "Opening"],
+    venue: {
+      name: "Dva Kohouti",
+      address: "Sokolovská 81/55, 186 00 Praha 8-Karlín, Czechia"
+    }
   },
   {
     id: "institutional-blockchain-breakfast",

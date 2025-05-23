@@ -1,15 +1,15 @@
 [
   {
     "id": "kickoff2025",
-    "name": "ETHPrague & Czech Crypto Week Kick-off",
+    "name": "Czech Crypto Week Opening Party",
     "date": "May 26, 2025",
     "dateISO": "2025-05-26",
-    "short_description": "The official opening event of Czech Crypto Week and ETHPrague.",
-    "website": "https://ethprague.com",
+    "time": "6:00 PM - 10:00 PM",
+    "short_description": "Kick off Czech Crypto Week with a relaxed, decentralized hangout! Join fellow crypto enthusiasts already in Prague for an informal evening of networking and conversations over drinks.",
+    "website": "https://lu.ma/9vy7mej1",
+    "tickets": "https://lu.ma/9vy7mej1",
     "confirmed": true,
     "location": "Prague",
-    "description": "Join us for the official kick-off of Czech Crypto Week and ETHPrague 2025. Meet fellow attendees, speakers, and organizers while getting an overview of the exciting week ahead.",
-    "organizers": ["ETHPrague Team", "EthCzech Community"],
     "tags": ["Social", "Community", "Opening"]
   },
   {
