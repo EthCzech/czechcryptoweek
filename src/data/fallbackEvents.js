@@ -12,11 +12,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "Kick off Czech Crypto Week with a relaxed, decentralized hangout! Join fellow crypto enthusiasts already in Prague for an informal evening of networking and conversations over drinks.\n\n📅 Monday, May 26th, 2025\n🕕 6:00 PM\n📍 Dva Kohouti, Prague 8\n\nThis is a casual meetup where everyone covers their own drinks and food. Perfect for winding down before the week's main events and connecting with the community in a laid-back atmosphere.\n\nWhether you're here for ETHPrague, other conferences, or just love crypto - come hang out with like-minded people and start the week right!",
     organizers: ["EthCzech Community"],
-    tags: ["Social", "Community", "Opening"],
-    venue: {
-      name: "Dva Kohouti",
-      address: "Sokolovská 81/55, 186 00 Praha 8-Karlín, Czechia"
-    }
+    tags: ["Social", "Networking"]
   },
   {
     id: "institutional-blockchain-breakfast",
@@ -68,7 +64,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "ETHPrague is a leading Ethereum conference focusing on innovation, development, and the future of web3. Join developers, entrepreneurs, and enthusiasts for three days of talks, workshops, and networking in the heart of Prague.",
     organizers: ["ETHPrague Team"],
-    tags: ["Conference", "Ethereum"]
+    tags: ["Conference"]
   },
   {
     id: "interoperability-meetup-prague",
@@ -87,7 +83,7 @@ export const fallbackEvents = [
       name: "Second Culture",
       address: "Dělnická 475/43, 170 00 Praha 7-Holešovice, Czechia"
     },
-    tags: ["Meetup", "Interoperability", "Scaling", "EVM", "Solana", "Multichain", "Networking", "ETHPrague Side Event"]
+    tags: ["Meetup", "Networking"]
   },
   {
     id: "beerfi",
@@ -177,7 +173,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "Urbe Campus is a 4-day bootcamp where students and beginner developers will be able to go from zero to hero with their Web3 development skills. This hands-on learning experience is designed to help newcomers quickly build practical Web3 development competencies.",
     organizers: ["Urbe.eth Team"],
-    tags: ["Bootcamp", "Education", "Developer"]
+    tags: ["Workshop"]
   },
   {
     id: "bob-hybrid-and-chill-meetup-prague",
@@ -196,7 +192,7 @@ export const fallbackEvents = [
       name: "TBC",
       address: "Prague"
     },
-    tags: ["Meetup", "Bitcoin", "DeFi", "Layer2", "Networking", "Community"]
+    tags: ["Meetup", "Networking"]
   },
   {
     id: "meetup",
@@ -211,11 +207,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "Whether you're a longstanding member of the ZK Hack community, of the EthereumCzech community, a cryptography expert or just curious about zero-knowledge technology, join us on Wednesday May 28th at 6:00PM in Prague!\n\nThis ZK Hack X EthereumCzech Meetup is an opportunity to meet fellow zk-enthusiasts and have a good time... There're no talks for the night, just good vibes!\n\nWe will be serving limited food and drinks. So remember to RSVP and come early before we run out!\n\nThis ZK Hack Meetup is produced in partnership with Self – huge thanks!\n\nWhat to expect:\n\n* 6:00 PM – Welcoming guests\n  * Say hi, get a glass, make new friends\n* Hanging-out\n  * Featuring drinks, snacks & zk-chats\n* 10:00 PM – End of the event\n  * Very sad indeed, but dry your tears cause you can still find us & the whole ZK Hack community on Discord\n* 10:00 PM ?\n  * Well, the bar closes at 1AM, so... more drinks?\n\nMeet our partners:\n\nSelf\nSelf is a privacy-preserving identity protocol that leverages zero-knowledge (ZK) proofs to prove users' identity and unique attributes without revealing personal data.",
     organizers: ["ZK Hack", "EthereumCzech"],
-    tags: ["Meetup", "ZK", "Networking", "Community", "ETHPrague Side Event"],
-    venue: {
-      name: "Dva Kohouti",
-      address: "Sokolovská 81/55, 186 00 Praha 8-Karlín, Czechia"
-    }
+    tags: ["Meetup", "Networking"]
   },
   {
     id: "crypto-outdoor-workout-eth-prague",
@@ -230,11 +222,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "🏃‍♀️ Suitable for ANY fitness level 🏃‍♂️\n\nTake a break from the conference discussions and burn some calories gained from all those Czech beers 🍺 you will have knocked over by the middle of the week - at our traditional outdoor workout! 💪\n\nExpect a bit of everything:\n* ​warm-up\n* ​squats\n* ​push-ups\n* ​Vepřo Koleno\n* ​chin-ups\n* ​dips\n* ​abs\n* ​stretches\n* ​// Find the odd one out 🤣\n\nFeel free to: \n* ​exercise with our coach\n* ​work out on your own\n* ​keep your own pace (leave early if you need to)\n\n**********\n**High-protein snacks 🍫 and drinking water 💧 provided, as always!**\n**********\n\nSupported by:\nWirex Pay - cutting-edge stablecoin payment platform, combining blockchain innovation with real-world usability for seamless global transactions. Incubated by Wirex, the leading crypto debit card issuer since 2015.\nCTRL - non-profit community of open-source contributors.\nMighty.study - gamified platform for incentivised learning.\n\n**********\n\nIf interested in getting updates about other workout events that we run at crypto and fintech conferences, feel free to join our Telegram channel: https://t.me/crypto_outdoor_workout",
     organizers: ["Wirex Pay"],
-    tags: ["Social", "Workout", "Fitness", "Community", "Wellbeing", "ETHPrague Side Event"],
-    venue: {
-      name: "Prague (Exact location TBC)",
-      address: "// exact location to be confirmed //"
-    }
+    tags: ["Social", "Networking"]
   },
   {
     id: "chain-reaction-pre-eth-global-dev-meetup",
@@ -249,11 +237,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "​Are you attending ETHGlobal Hackathon in Prague? Looking to connect, brainstorm ideas, and meet fellow builders before the event kicks off?\n\n​​Join Rootstock for a laid-back pre-hackathon meetup in Prague! \n\n​​This is your chance to meet like-minded hackers, bounce ideas around, and get inspired—all in a relaxed, friendly atmosphere. No formal agenda—just good conversations, great people, and plenty of fun.\n\n​​We've got food, drinks and exclusive Rootstock merch waiting for you. Whether you're new to Rootstock or already familiar, our team will be there to chat about how you can leverage your Ethereum skills to build on Bitcoin.  \n  \n​**Who's joining?**  \n🔥 **Rootstock Collective** – Empowering and rewarding builders and backers to drive innovation in Bitcoin's most trusted Layer 2.  \n🌍 **Flow** – The leader in Web3 consumer crypto apps, with over **40M+ on-chain wallets** spanning X, Instagram, collectibles and more.  \n  \n**About Rootstock**\n\n​​Rootstock has been the leading Bitcoin Layer 2 since 2018, combining Ethereum's development ecosystem with Bitcoin's security and decentralization. It's fully EVM-compatible, supports Solidity, and leverages over 80% of Bitcoin's hash power through merged-mined proof-of-work. Translation? You can take your Ethereum skills, deploy them on Bitcoin, and build something epic—no extra tools needed. Ready to dive in?",
     organizers: ["Rootstock", "RootstockCollective", "Flow.com"],
-    tags: ["Meetup", "Developer", "Networking", "Hackathon", "Bitcoin", "Layer2", "ETHGlobal Side Event"],
-    venue: {
-      name: "Second Culture",
-      address: "Dělnická 475/43, 170 00 Praha 7-Holešovice, Czechia"
-    }
+    tags: ["Meetup", "Networking"]
   },
   {
     id: "bohemia-roots-dao",
@@ -288,11 +272,11 @@ export const fallbackEvents = [
       address: "Bubenské nábř. 306, 170 00 Praha 7-Holešovice, Czechia",
       maps: "https://maps.app.goo.gl/rZVoWVuGwQ4WeMEE7"
     },
-    tags: ["Conference", "Developer", "Ethereum"]
+    tags: ["Conference"]
   },
   {
     id: "web3privacy",
-    name: "Web3Privacy Now Meetup x ETHPrague 2025",
+    name: "Web3Privacy Now Meetup x ETHPrague",
     date: "May 29, 2025",
     dateISO: "2025-05-29",
     time: "4:00 PM - 11:00 PM",
@@ -303,7 +287,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "Join the Web3PrivacyNow community for an evening dedicated to privacy technologies in the decentralized web. Learn about the latest advancements in zero-knowledge proofs, privacy-preserving protocols, and practical tools for enhancing privacy in blockchain applications.",
     organizers: ["Web3Privacy Now Team"],
-    tags: ["Meetup", "Privacy"]
+    tags: ["Meetup", "Networking"]
   },
   {
     id: "austin-griffith-workshop",
@@ -319,7 +303,7 @@ export const fallbackEvents = [
     confirmed: true,
     organizers: ["CZM Calendar", "EthereumCzech", "PWNDAO"],
     contact: "ethczech@gmail.com",
-    tags: ["Workshop", "Developer", "Live Coding", "AI", "Web3"]
+    tags: ["Workshop"]
   },
   {
     id: "ethglobal-happy-hour",
@@ -333,7 +317,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "Get ready to party with the ETHGlobal community in the heart of Prague! On Thursday, May 29 2025, from 6:00 PM to 8:30 PM, join for an unforgettable evening of drinks, laughs, and making new connections. Whether you're a blockchain enthusiast, a hacker, or just someone who loves a good time, this is the place to be.",
     organizers: ["ETHGlobal"],
-    tags: ["Social", "Networking", "Community"]
+    tags: ["Social", "Networking"]
   },
   {
     id: "ethglobal",
@@ -352,7 +336,7 @@ export const fallbackEvents = [
       address: "Na Strži 2097/63, 140 00 Praha 4-Nusle, Czechia"
     },
     prizes: "$175,000 available in prizes from sponsors including Blockscout, 1inch, LayerZero, Flow, Pyth Network, Chainlink, and more",
-    tags: ["Hackathon", "Ethereum"]
+    tags: ["Hackathon"]
   },
   {
     id: "based-house-prague",
@@ -371,7 +355,7 @@ export const fallbackEvents = [
       name: "Register to See Address",
       address: "Prague, Prague"
     },
-    tags: ["Workshop", "Developer", "Networking", "Layer2", "Base", "Hive", "ETHGlobal Side Event"]
+    tags: ["Workshop", "Networking"]
   },
   {
     id: "ackee",
@@ -390,7 +374,7 @@ export const fallbackEvents = [
       address: "Rohanské nábř. 717/4, 186 00 Praha 8-Karlín, Czechia",
       maps: "https://maps.app.goo.gl/DRCuYhwLVgJ9jewe6"
     },
-    tags: ["Meetup", "Social", "Networking", "Breakfast"]
+    tags: ["Meetup", "Networking"]
   },
   {
     id: "protolayers",
@@ -404,7 +388,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "Join ProtoLayers for a deep dive into cutting-edge Ethereum research and development. This focused event brings together researchers and developers to discuss the latest advances in Ethereum protocol, layer-2 solutions, and scaling technologies.",
     organizers: ["Damsky", "ProtoLayers Team"],
-    tags: ["Conference", "R&D", "Layer2"]
+    tags: ["Conference"]
   },
   {
     name: "OnlyDust Open Source Meetup",
@@ -449,11 +433,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "Pop into the STARK CAFE for a great workspace & chill at EthPrague! ☕️🍻\n\nEnjoy free WiFi, delicious coffee, beer and lunch options—all provided. Whether you want to work, relax, or connect with others, STARK CAFE offers a friendly and inviting atmosphere just a few meters from the EthPrague venue.\n\nDrop by and make the most of your day!",
     organizers: ["StarkWare", "Starknet Foundation", "Argent"],
-    tags: ["Workspace", "Networking", "Layer2", "ETHPrague Side Event"],
-    venue: {
-      name: "Location provided after registration",
-      address: "Hlavní město Praha, Hlavní město Praha"
-    }
+    tags: ["Workspace", "Networking"]
   },
   {
     id: "road-to-mvb-prague",
@@ -468,11 +448,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "Meet the teams of BNB Chain, YZi Labs, and CMC Labs during the first edition of The Road to MVB, happening during ETH Prague!\n\nMVB, the Most Valuable Builders program, is BNB Chain's flagship accelerator run in partnership with YZi Labs and CMC Labs. Applications are currently open for its 10th cohort - come chat with the teams to ask any questions that you may have and connect with fellow builders.\n\nMore about the program on: https://www.bnbchain.org/en/blog/bnb-chain-expands-mvb-access-with-rolling-applications-and-selections\n\nAgenda:\n\n* 3:30 PM – Welcome\n* 4:00 PM – Introduction to BNB Chain, YZi Labs, and MVB\n* 5:00 PM – Q&A followed by networking drinks in Czech fashion 🍻\n\nReady for #BNBSummer?\n\nWant to see us more at ETH Prague? Benjamin Safaric, BD at BNB Chain, will also be speaking about RWAs on BNB Chain at the main event on May 29th.\n\nIf you are considering attending the main event at ETH Prague, we have a 25% discount code for you if you register with the code BNB25 (thank you ETH Prague team!)",
     organizers: ["BNB Chain", "YZi Labs", "CMC Labs"],
-    tags: ["Meetup", "Accelerator", "Networking", "ETHPrague Side Event"],
-    venue: {
-      name: "Location provided after registration",
-      address: "Hlavní město Praha, Hlavní město Praha"
-    }
+    tags: ["Meetup", "Networking"]
   },
   {
     id: "builder-nights-prague",
@@ -487,11 +463,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "\"Builder night is the hottest web3 event series 🔥\", _Cointelegraph_\n\nOrganized by Francesco Andreoli 🦊, DevRel at Consensys\n\nWe are thrilled to announce our Builder Nights! Over the past two years, we've been incredibly fortunate to foster communities across five continents and host top Web3 thought leaders. Our list of guests have included **_Vitalik Buterin_**, **_Yat Siu_**, **_Joe Lubin_**, **_Dan Finlay_**, and many others.\n\nImmerse yourself in insightful discussions with the biggest brains in the Web3 game, network with other giga 🧠, and expand your knowledge of one of the hottest industry topics. The evening promises to be filled with builder insights and ample networking opportunities! 🤝\n\n**Details:**\n\n⏰ Time: 5:00PM - 10:00PM\n📍 Venue: Register to see address\n🎪 Free entry\n\n**Agenda**\n\n* 6:00PM – Registration & Welcome! 🎟️🙌\n* 8:00PM – Developer Tooling panel\n* 9:00PM – Networking and more\n* 11:00PM – Closing\n\n**About Event Partners**\n\n**About MetaMask**\nMetaMask is the world's leading self-custody web3 platform with 19 million monthly active users. Developed by Consensys, MetaMask is the most beloved and trusted way a global user base relies on to mint and collect NFTs, join DAOs, play games and participate in DeFi protocols.\n\n**About Linea**\nLinea is a developer-ready zkEVM rollup for scaling Ethereum dapps. It combines the power of zero-knowledge proofs with full Ethereum Virtual Machine (EVM) equivalence, allowing builders to create scalable decentralized applications (dapps) or migrate existing ones without the hassle of changing code or rewriting smart contracts.\n\n**About Ackee Blockchain Security**\nTeam of industry-leading auditors performing security audits and creating open-source dev tools. We contribute to a stronger blockchain ecosystem by providing security services, tooling and education. Partners of Lido, AAVE, Safe, Axelar, and more.",
     organizers: ["MetaMask", "Linea", "Ackee Blockchain Security", "Francesco Andreoli"],
-    tags: ["Meetup", "Networking", "Developer", "Web3", "Layer2", "ETHGlobal Side Event"],
-    venue: {
-      name: "Register to See Address",
-      address: "Hlavní město Praha, Hlavní město Praha"
-    }
+    tags: ["Meetup", "Networking"]
   },
   {
     id: "alternative-currencies-breakfast",
@@ -506,10 +478,6 @@ export const fallbackEvents = [
     location: "Prague",
     description: "**Alternative Currencies Breakfast, hosted by Circles @ ETHPrague**\n\nBitcoin promised to be a new censorship resistant form of money, but it turned out to be a store of value rather than a medium of exchange.\n\nWe're hosting a breakfast for those working on, and those interested in learning more about newer forms of money that are better and fairer.\n\nJoin us for a cozy breakfast gathering to discuss these topics with like-minded folks over coffee and good food.\n\nAll attendees will get a chance to be one of the first ones to be onboarded to Circles, a new fairer form of money launched on 21st May 2025, right on the spot.\n\nOur co-founder **Friederike Ernst** will also be joining us - if you watched her talk the day before (or even if you missed it), come meet her in person and continue the conversation.\n\nMore about us: www.aboutcircles.com",
     organizers: ["Circles", "Gnosis"],
-    tags: ["Breakfast", "Alternative Currencies", "Networking", "ETHPrague Side Event"],
-    venue: {
-      name: "Bubenské nábř. 306/13",
-      address: "Bubenské nábř. 306/13, Hlavní město Praha, Hlavní město Praha"
-    }
+    tags: ["Meetup", "Networking"]
   }
 ]; 
