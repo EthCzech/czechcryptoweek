@@ -492,5 +492,24 @@ export const fallbackEvents = [
       name: "Register to See Address",
       address: "Hlavní město Praha, Hlavní město Praha"
     }
+  },
+  {
+    id: "alternative-currencies-breakfast",
+    name: "Alternative Currencies Breakfast, hosted by Circles",
+    date: "May 28, 2025",
+    dateISO: "2025-05-28",
+    time: "10:00 AM - 12:00 PM CEST",
+    short_description: "Join us for a cozy breakfast gathering to discuss newer forms of money that are better and fairer, with the opportunity to be among the first to be onboarded to Circles.",
+    website: "https://lu.ma/zlp0inzh",
+    tickets: "https://lu.ma/zlp0inzh",
+    confirmed: true,
+    location: "Prague",
+    description: "**Alternative Currencies Breakfast, hosted by Circles @ ETHPrague**\n\nBitcoin promised to be a new censorship resistant form of money, but it turned out to be a store of value rather than a medium of exchange.\n\nWe're hosting a breakfast for those working on, and those interested in learning more about newer forms of money that are better and fairer.\n\nJoin us for a cozy breakfast gathering to discuss these topics with like-minded folks over coffee and good food.\n\nAll attendees will get a chance to be one of the first ones to be onboarded to Circles, a new fairer form of money launched on 21st May 2025, right on the spot.\n\nOur co-founder **Friederike Ernst** will also be joining us - if you watched her talk the day before (or even if you missed it), come meet her in person and continue the conversation.\n\nMore about us: www.aboutcircles.com",
+    organizers: ["Circles", "Gnosis"],
+    tags: ["Breakfast", "Alternative Currencies", "Networking", "ETHPrague Side Event"],
+    venue: {
+      name: "Bubenské nábř. 306/13",
+      address: "Bubenské nábř. 306/13, Hlavní město Praha, Hlavní město Praha"
+    }
   }
 ]; 

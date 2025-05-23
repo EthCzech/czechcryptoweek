@@ -451,5 +451,18 @@
     "confirmed": true,
     "location": "Prague",
     "tags": ["Meetup", "Networking", "Developer", "Web3", "Layer2", "ETHGlobal Side Event"]
+  },
+  {
+    "id": "alternative-currencies-breakfast",
+    "name": "Alternative Currencies Breakfast, hosted by Circles",
+    "date": "May 28, 2025",
+    "dateISO": "2025-05-28",
+    "time": "10:00 AM - 12:00 PM CEST",
+    "short_description": "Join us for a cozy breakfast gathering to discuss newer forms of money that are better and fairer, with the opportunity to be among the first to be onboarded to Circles.",
+    "website": "https://lu.ma/zlp0inzh",
+    "tickets": "https://lu.ma/zlp0inzh",
+    "confirmed": true,
+    "location": "Prague",
+    "tags": ["Breakfast", "Alternative Currencies", "Networking", "ETHPrague Side Event"]
   }
 ]
