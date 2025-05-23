@@ -200,16 +200,22 @@ export const fallbackEvents = [
   },
   {
     id: "meetup",
-    name: "EthCzech Community Meetup",
+    name: "ZK Hack X EthereumCzech Meetup in Prague",
     date: "May 28, 2025",
     dateISO: "2025-05-28",
-    short_description: "Join the local Ethereum community for networking and discussions.",
-    website: "https://lu.ma/user/ethczech",
+    time: "6:00 PM - 10:00 PM",
+    short_description: "Join us for a casual meetup with the ZK Hack and EthereumCzech communities. No talks, just good vibes and zk-chats!",
+    website: "https://lu.ma/t0w4wu0b",
+    tickets: "https://lu.ma/t0w4wu0b",
     confirmed: true,
     location: "Prague",
-    description: "Join the local Ethereum community for an evening of networking, short presentations, and discussions. This is a great opportunity to meet like-minded enthusiasts, developers, and entrepreneurs who are building the future of Web3 in the Czech Republic and beyond.",
-    organizers: ["EthCzech Community"],
-    tags: ["Meetup", "Community", "Networking"]
+    description: "Whether you're a longstanding member of the ZK Hack community, of the EthereumCzech community, a cryptography expert or just curious about zero-knowledge technology, join us on Wednesday May 28th at 6:00PM in Prague!\n\nThis ZK Hack X EthereumCzech Meetup is an opportunity to meet fellow zk-enthusiasts and have a good time... There're no talks for the night, just good vibes!\n\nWe will be serving limited food and drinks. So remember to RSVP and come early before we run out!\n\nThis ZK Hack Meetup is produced in partnership with Self – huge thanks!\n\nWhat to expect:\n\n* 6:00 PM – Welcoming guests\n  * Say hi, get a glass, make new friends\n* Hanging-out\n  * Featuring drinks, snacks & zk-chats\n* 10:00 PM – End of the event\n  * Very sad indeed, but dry your tears cause you can still find us & the whole ZK Hack community on Discord\n* 10:00 PM ?\n  * Well, the bar closes at 1AM, so... more drinks?\n\nMeet our partners:\n\nSelf\nSelf is a privacy-preserving identity protocol that leverages zero-knowledge (ZK) proofs to prove users' identity and unique attributes without revealing personal data.",
+    organizers: ["ZK Hack", "EthereumCzech"],
+    tags: ["Meetup", "ZK", "Networking", "Community", "ETHPrague Side Event"],
+    venue: {
+      name: "Dva Kohouti",
+      address: "Sokolovská 81/55, 186 00 Praha 8-Karlín, Czechia"
+    }
   },
   {
     id: "crypto-outdoor-workout-eth-prague",

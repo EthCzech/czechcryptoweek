@@ -130,16 +130,16 @@
   },
   {
     "id": "meetup",
-    "name": "EthCzech Community Meetup",
+    "name": "ZK Hack X EthereumCzech Meetup in Prague",
     "date": "May 28, 2025",
     "dateISO": "2025-05-28",
-    "short_description": "Join the local Ethereum community for networking and discussions.",
-    "website": "https://lu.ma/user/ethczech",
+    "time": "6:00 PM - 10:00 PM",
+    "short_description": "Join us for a casual meetup with the ZK Hack and EthereumCzech communities. No talks, just good vibes and zk-chats!",
+    "website": "https://lu.ma/t0w4wu0b",
+    "tickets": "https://lu.ma/t0w4wu0b",
     "confirmed": true,
     "location": "Prague",
-    "description": "Join the local Ethereum community for an evening of networking, short presentations, and discussions. This is a great opportunity to meet like-minded enthusiasts, developers, and entrepreneurs who are building the future of Web3 in the Czech Republic and beyond.",
-    "organizers": ["EthCzech Community"],
-    "tags": ["Meetup", "Community", "Networking"]
+    "tags": ["Meetup", "ZK", "Networking", "Community", "ETHPrague Side Event"]
   },
   {
     "id": "crypto-outdoor-workout-eth-prague",
