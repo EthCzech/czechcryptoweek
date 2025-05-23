@@ -27,7 +27,7 @@ export const fallbackEvents = [
     location: "Hlavní město Praha, Hlavní město Praha",
     description: "🌅 Rise with Us at the Institutional Blockchain Breakfast. A Private Side Event During ETHPrague 2025. Start your morning with signal, not noise. We're bringing together institutions, ecosystem operators, and infrastructure teams for an off-the-record morning of sharp roundtables, meaningful chats, and focused networking — all with a builder-first mindset. Coffee, not panels. Real use cases, not hypotheticals. This is where next-gen institutional blockchain adoption gets dissected.",
     organizers: ["GTS 20"],
-    tags: ["Breakfast", "Networking", "Institutional", "ETHPrague Side Event"],
+    tags: ["Meetup"],
     venue: {
       name: "Register to See Address",
       address: "Hlavní město Praha, Hlavní město Praha"
@@ -46,7 +46,7 @@ export const fallbackEvents = [
     location: "Hlavní město Praha, Hlavní město Praha",
     description: "Private Roundtable for TGE Innovators & Builders. As ETHPrague 2025 gathers the Ethereum community in Prague, we're hosting an exclusive side event for professionals involved in token launches. This invite-only gathering will delve into the latest strategies, legal considerations, and marketing approaches for Token Generation Events (TGEs) in 2025.",
     organizers: ["Grabber Network"],
-    tags: ["Roundtable", "TGE", "ICO", "Token Launch", "ETHPrague Side Event", "Invite-only"],
+    tags: ["Meetup"],
     venue: {
       name: "Register to See Address",
       address: "Hlavní město Praha, Hlavní město Praha"
@@ -102,7 +102,7 @@ export const fallbackEvents = [
       address: "Vacínova 876/10, Hlavní město Praha",
       maps: "https://maps.app.goo.gl/oBhBZ4XXLe5HSpK16"
     },
-    tags: ["Meetup", "Developer", "Smart Contracts"]
+    tags: ["Meetup"]
   },
   {
     id: "eth-prague-bull-run",
@@ -117,7 +117,7 @@ export const fallbackEvents = [
     location: "Prague, Czechia",
     description: "Still waiting for the charts to move? Move your legs instead. Block by block. Step by step. Gas up IRL. A literal 5K run to kickstart ETH Prague with real GMs and bullish energy.\n\nWhat's Going Down:\n\n*   5K social run through the heart of Prague.\n*   Pace: somewhere between degen sprint and validator slow sync.\n*   Start time: 7:30 AM sharp — because the real ones wake up bullish.\n*   No talks, no booths — just real conversation while moving.\n*   End at a local café for coffee, croissants, and quality hangs.\n*   Can't run? Meet us at the café. Same bullish energy, fewer steps.\n\nVibe:\n\n*   Proper GM energy while the city's still booting up.\n*   Meet degens, devs, and founders who actually ship (or run).\n*   No stage, no agenda — just pace and presence.\n*   Zero gas, all gains.",
     organizers: ["Artiffine"],
-    tags: ["Social", "Run", "Networking", "Community", "ETHPrague Side Event", "DeFi", "Web3"],
+    tags: ["Social"],
     venue: {
       name: "Meetup spot and café TBA",
       address: "Central Prague"
@@ -140,7 +140,7 @@ export const fallbackEvents = [
       name: "Second Culture",
       address: "Dělnická 475/43, 170 00 Praha 7-Holešovice, Czechia"
     },
-    tags: ["Meetup", "Gaming", "Networking", "NFT", "Layer2", "ETHPrague Side Event"]
+    tags: ["Meetup"]
   },
   {
     id: "pre-hack-chill-yellow",
@@ -155,7 +155,7 @@ export const fallbackEvents = [
     location: "Prague",
     description: "Join a pre-hack side-event organised by Yellow Network in partnership with 1inch and Rootstock! We're expecting developers, protocol architects, and core contributors working on the most exciting innovations in Web3 to meet for productive sharing over industry trends and networking.",
     organizers: ["Yellow Network", "1inch", "Rootstock"],
-    tags: ["Meetup", "Developer", "Networking", "Web3", "Hackathon", "ETHGlobal Side Event"],
+    tags: ["Meetup"],
     venue: {
       name: "Scott.Weber Visionary",
       address: "Plynární 1617/10, 170 00 Praha 7-Holešovice, Czechia"
@@ -253,7 +253,7 @@ export const fallbackEvents = [
     description: "We, the Polkadot DAO and the How to DAO community are honored to invite you to Bohemia Roots: How to DAO? the official Polkadot side event at ETH Prague. The event will be a continuation of a discussion held during a panel called 'Evolution of a DAO: Did Blockchain Invent Decentralization, or Just Rediscover It?' which will take place on 29th of May between 10:00 - 10:55 at the Flower stage pf ETH Prague. You might have heard about decentralized autonomous organizations (DAO). You might even be part of some. But are they really a DAO or are they just using the hype? During our side event we will dive deep into the world decentralized governance and help you uncover what a true DAO really is and what you need to do, to create one Yourself!",
     organizer: "Bohemia fam & Polkadot",
     contact: "ethczech@gmail.com",
-    tags: ["DAO", "Polkadot", "Governance", "Workshop"]
+    tags: ["Workshop"]
   },
   {
     id: "pragma",
