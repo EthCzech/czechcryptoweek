@@ -391,36 +391,6 @@ export const fallbackEvents = [
     tags: ["Conference"]
   },
   {
-    name: "OnlyDust Open Source Meetup",
-    confirmed: false,
-    tags: ["Meetup", "Open Source"]
-  },
-  {
-    name: "Logos Meetup",
-    confirmed: false,
-    tags: ["Meetup"]
-  },
-  {
-    name: "Dabl.Club Workshop/Bootcamp",
-    confirmed: false,
-    tags: ["Workshop", "Bootcamp"]
-  },
-  {
-    name: "ZKHack Meetup",
-    confirmed: false,
-    tags: ["Meetup", "ZKP"]
-  },
-  {
-    name: "Longevity Meetup",
-    confirmed: false,
-    tags: ["Meetup", "Longevity"]
-  },
-  {
-    name: "Polkadot Meetup",
-    confirmed: false,
-    tags: ["Meetup", "Polkadot"]
-  },
-  {
     id: "stark-cafe",
     name: "STARK CAFE",
     date: "May 28, 2025",
@@ -461,7 +431,7 @@ export const fallbackEvents = [
     tickets: "https://lu.ma/bnprague",
     confirmed: true,
     location: "Prague",
-    description: "\"Builder night is the hottest web3 event series 🔥\", _Cointelegraph_\n\nOrganized by Francesco Andreoli 🦊, DevRel at Consensys\n\nWe are thrilled to announce our Builder Nights! Over the past two years, we've been incredibly fortunate to foster communities across five continents and host top Web3 thought leaders. Our list of guests have included **_Vitalik Buterin_**, **_Yat Siu_**, **_Joe Lubin_**, **_Dan Finlay_**, and many others.\n\nImmerse yourself in insightful discussions with the biggest brains in the Web3 game, network with other giga 🧠, and expand your knowledge of one of the hottest industry topics. The evening promises to be filled with builder insights and ample networking opportunities! 🤝\n\n**Details:**\n\n⏰ Time: 5:00PM - 10:00PM\n📍 Venue: Register to see address\n🎪 Free entry\n\n**Agenda**\n\n* 6:00PM – Registration & Welcome! 🎟️🙌\n* 8:00PM – Developer Tooling panel\n* 9:00PM – Networking and more\n* 11:00PM – Closing\n\n**About Event Partners**\n\n**About MetaMask**\nMetaMask is the world's leading self-custody web3 platform with 19 million monthly active users. Developed by Consensys, MetaMask is the most beloved and trusted way a global user base relies on to mint and collect NFTs, join DAOs, play games and participate in DeFi protocols.\n\n**About Linea**\nLinea is a developer-ready zkEVM rollup for scaling Ethereum dapps. It combines the power of zero-knowledge proofs with full Ethereum Virtual Machine (EVM) equivalence, allowing builders to create scalable decentralized applications (dapps) or migrate existing ones without the hassle of changing code or rewriting smart contracts.\n\n**About Ackee Blockchain Security**\nTeam of industry-leading auditors performing security audits and creating open-source dev tools. We contribute to a stronger blockchain ecosystem by providing security services, tooling and education. Partners of Lido, AAVE, Safe, Axelar, and more.",
+    description: "\"Builder night is the hottest web3 event series 🔥\", _Cointelegraph_\n\nOrganized by Francesco Andreoli , DevRel at Consensys\n\nWe are thrilled to announce our Builder Nights! Over the past two years, we've been incredibly fortunate to foster communities across five continents and host top Web3 thought leaders. Our list of guests have included **_Vitalik Buterin_**, **_Yat Siu_**, **_Joe Lubin_**, **_Dan Finlay_**, and many others.\n\nImmerse yourself in insightful discussions with the biggest brains in the Web3 game, network with other giga 🧠, and expand your knowledge of one of the hottest industry topics. The evening promises to be filled with builder insights and ample networking opportunities! 🤝\n\n**Details:**\n\n⏰ Time: 5:00PM - 10:00PM\n📍 Venue: Register to see address\n🎪 Free entry\n\n**Agenda**\n\n* 6:00PM – Registration & Welcome! 🎟️🙌\n* 8:00PM – Developer Tooling panel\n* 9:00PM – Networking and more\n* 11:00PM – Closing\n\n**About Event Partners**\n\n**About MetaMask**\nMetaMask is the world's leading self-custody web3 platform with 19 million monthly active users. Developed by Consensys, MetaMask is the most beloved and trusted way a global user base relies on to mint and collect NFTs, join DAOs, play games and participate in DeFi protocols.\n\n**About Linea**\nLinea is a developer-ready zkEVM rollup for scaling Ethereum dapps. It combines the power of zero-knowledge proofs with full Ethereum Virtual Machine (EVM) equivalence, allowing builders to create scalable decentralized applications (dapps) or migrate existing ones without the hassle of changing code or rewriting smart contracts.\n\n**About Ackee Blockchain Security**\nTeam of industry-leading auditors performing security audits and creating open-source dev tools. We contribute to a stronger blockchain ecosystem by providing security services, tooling and education. Partners of Lido, AAVE, Safe, Axelar, and more.",
     organizers: ["MetaMask", "Linea", "Ackee Blockchain Security", "Francesco Andreoli"],
     tags: ["Meetup"]
   },
@@ -498,5 +468,24 @@ export const fallbackEvents = [
       address: "ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia"
     },
     tags: ["Social"]
+  },
+  {
+    id: "ronin-dev-dojo",
+    name: "Ronin Dev Dojo @EthPrague",
+    date: "May 28, 2025",
+    dateISO: "2025-05-28",
+    time: "7:30 PM - 11:00 PM",
+    short_description: "Join the Ronin DevRel team for a chill evening in Prague's Old Town—just steps away from the ETH crowd, but with better beer.",
+    description: "Builders, assemble. Join the Ronin DevRel team for a chill evening in Prague's Old Town—just steps away from the ETH crowd, but with better beer.\n\nTime: Wed, May 28th - doors open at 19:30\n\nWhat to expect:\n\n* Hang out with the Ronin DevRel crew\n* Get the latest on how to launch, grow, and monetize on Ronin\n* Connect with other Web3 builders, founders, and game devs\n* No panels, no pitch decks—just good people and real talk\n\nWhat's on tap 🍺\n\n* Cold Czech beer & finger food\n* Cozy venue in Prague's historic center\n* Gamer brains, builder energy\n\nRonin is an EVM blockchain specifically forged for gaming. Developed by Sky Mavis, the creator of Axie Infinity which has generated over $1.3B in revenue, Ronin is the only blockchain proven to scale a single game to accommodate millions of daily active users.",
+    organizers: ["Ronin", "EthereumCzech"],
+    website: "https://lu.ma/l8a14mp0",
+    tickets: "https://lu.ma/l8a14mp0",
+    confirmed: true,
+    location: "Prague",
+    venue: {
+      name: "Register to See Address",
+      address: "Hlavní město Praha, Hlavní město Praha"
+    },
+    tags: ["Meetup"]
   }
 ]; 

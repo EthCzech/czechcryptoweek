@@ -1,0 +1,19 @@
+{
+  "id": "ronin-dev-dojo",
+  "name": "Ronin Dev Dojo @EthPrague",
+  "date": "May 28, 2025",
+  "dateISO": "2025-05-28",
+  "time": "7:30 PM - 11:00 PM",
+  "short_description": "Join the Ronin DevRel team for a chill evening in Prague's Old Town—just steps away from the ETH crowd, but with better beer.",
+  "description": "Builders, assemble. Join the Ronin DevRel team for a chill evening in Prague's Old Town—just steps away from the ETH crowd, but with better beer.\n\nTime: Wed, May 28th - doors open at 19:30\n\nWhat to expect:\n\n* Hang out with the Ronin DevRel crew\n* Get the latest on how to launch, grow, and monetize on Ronin\n* Connect with other Web3 builders, founders, and game devs\n* No panels, no pitch decks—just good people and real talk\n\nWhat's on tap 🍺\n\n* Cold Czech beer & finger food\n* Cozy venue in Prague's historic center\n* Gamer brains, builder energy\n\nRonin is an EVM blockchain specifically forged for gaming. Developed by Sky Mavis, the creator of Axie Infinity which has generated over $1.3B in revenue, Ronin is the only blockchain proven to scale a single game to accommodate millions of daily active users.",
+  "organizers": ["Ronin", "EthereumCzech"],
+  "website": "https://lu.ma/l8a14mp0",
+  "tickets": "https://lu.ma/l8a14mp0",
+  "confirmed": true,
+  "location": "Prague",
+  "venue": {
+    "name": "Register to See Address",
+    "address": "Hlavní město Praha, Hlavní město Praha"
+  },
+  "tags": ["Meetup"]
+} 
