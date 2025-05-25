@@ -1,0 +1,15 @@
+{
+  "name": "Verifiable Brunch with vlayer",
+  "date": "May 29, 2025",
+  "time": "11:00 - 14:00",
+  "location": "Second Culture, Hlavní město Praha",
+  "description": "Pull up for a brunch gathering with builders, founders, and funders pushing the frontier of verifiability in Web3.\n\nVerifiable Brunch with vlayer brings together hackathon teams, early-stage founders, protocol devs, and ecosystem explorers working on governance, identity, data infra, and zero-knowledge tooling. If you're thinking in attestations, proofs, and modular coordination—this is your space.\n\nOur agenda mirrors the lifecycle of a verifiable project:\n\n* Build → Launch fast with composable tools\n* Grow → Activate your first believers and contributors\n* Raise → Navigate the path to capital in modular, infra-first ecosystems\n\nExpect hands-on sessions, no-fluff convos, and quality brunch vibes with a community of on-chain builders.",
+  "organizers": ["vlayer labs"],
+  "website": "https://lu.ma/verifiablebrunch",
+  "tickets": "https://lu.ma/verifiablebrunch",
+  "venue": {
+    "name": "Second Culture",
+    "address": "Dělnická 475/43, 170 00 Praha 7-Holešovice, Czechia"
+  },
+  "contact": "ethczech@gmail.com"
+} 
