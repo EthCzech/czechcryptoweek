@@ -11,5 +11,6 @@
     "name": "PAN83 Bar & Restaurant",
     "address": "Milevská 1695/7, 140 00 Praha 4-Krč, Czechia"
   },
-  "contact": "ethczech@gmail.com"
+  "contact": "ethczech@gmail.com",
+  "confirmed": true
 } 
