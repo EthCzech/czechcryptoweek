@@ -3,31 +3,13 @@ import { fallbackEvents } from '../../data/fallbackEvents.js';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
-  let events = [];
-  try {
-    const response = await fetch('https://raw.githubusercontent.com/EthCzech/czechcryptoweek/main/events/index.json');
-    events = await response.json();
-  } catch (error) {
-    console.error('Error fetching events for static paths:', error);
-    events = fallbackEvents;
-  }
-  
   // Only generate pages for confirmed events
-  const confirmedEvents = events.filter(event => event.confirmed !== false);
+  const confirmedEvents = fallbackEvents.filter(event => event.confirmed !== false);
   return confirmedEvents.map(event => ({ params: { id: event.id } }));
 }
 
 const { id } = Astro.params;
-let event;
-
-// Restore original data fetching logic
-try {
-  const response = await fetch(`https://raw.githubusercontent.com/EthCzech/czechcryptoweek/main/events/${id}/info.json`);
-  event = await response.json();
-} catch (error) {
-  console.error(`Error fetching data for event ${id}:`, error);
-  event = fallbackEvents.find(e => e.id === id);
-}
+let event = fallbackEvents.find(e => e.id === id);
 
 if (!event) {
   console.error(`Event not found for ID: ${id}. Check data sources.`);
