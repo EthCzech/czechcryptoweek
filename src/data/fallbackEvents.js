@@ -34,25 +34,6 @@ export const fallbackEvents = [
     }
   },
   {
-    id: "ico-summer-begins",
-    name: "ICO Summer Begins @ ETHPrague",
-    date: "May 27, 2025",
-    dateISO: "2025-05-27",
-    time: "9:00 AM - 3:00 PM",
-    short_description: "An exclusive side event for professionals involved in token launches, focusing on strategies, legal considerations, and marketing for TGEs in 2025.",
-    website: "https://lu.ma/312jc93v",
-    tickets: "https://lu.ma/312jc93v",
-    confirmed: true,
-    location: "Hlavní město Praha, Hlavní město Praha",
-    description: "Private Roundtable for TGE Innovators & Builders. As ETHPrague 2025 gathers the Ethereum community in Prague, we're hosting an exclusive side event for professionals involved in token launches. This invite-only gathering will delve into the latest strategies, legal considerations, and marketing approaches for Token Generation Events (TGEs) in 2025.",
-    organizers: ["Grabber Network"],
-    tags: ["Meetup"],
-    venue: {
-      name: "Register to See Address",
-      address: "Hlavní město Praha, Hlavní město Praha"
-    }
-  },
-  {
     id: "ethprague2025",
     name: "ETHPrague 2025",
     date: "May 27-29, 2025",
