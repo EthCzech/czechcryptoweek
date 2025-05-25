@@ -4,11 +4,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 // Fetch event data from GitHub repository with error handling
 async function fetchEventData() {
-	// Always use fallback events for now
-	console.log("Using fallback events:", fallbackEvents.map(e => e.name));
-	return fallbackEvents;
-	
-	/* Commenting out GitHub fetch for now
 	try {
 		console.log("Fetching event data...");
 		const response = await fetch('https://raw.githubusercontent.com/EthCzech/czechcryptoweek/main/events/index.json');
@@ -27,7 +22,6 @@ async function fetchEventData() {
 		console.log("Using fallback events due to error:", fallbackEvents.map(e => e.name));
 		return fallbackEvents;
 	}
-	*/
 }
 
 // Define functions for sorting and processing events
