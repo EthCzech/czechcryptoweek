@@ -468,5 +468,59 @@ export const fallbackEvents = [
       address: "Hlavní město Praha, Hlavní město Praha"
     },
     tags: ["Meetup"]
+  },
+  {
+    id: "verifiable-brunch",
+    name: "Verifiable Brunch with vlayer",
+    date: "May 29, 2025",
+    dateISO: "2025-05-29",
+    time: "11:00 - 14:00",
+    short_description: "Pull up for a brunch gathering with builders, founders, and funders pushing the frontier of verifiability in Web3.",
+    tickets: "https://lu.ma/verifiablebrunch",
+    confirmed: true,
+    location: "Prague",
+    description: "Pull up for a brunch gathering with builders, founders, and funders pushing the frontier of verifiability in Web3.\n\nVerifiable Brunch with vlayer brings together hackathon teams, early-stage founders, protocol devs, and ecosystem explorers working on governance, identity, data infra, and zero-knowledge tooling. If you're thinking in attestations, proofs, and modular coordination—this is your space.\n\nOur agenda mirrors the lifecycle of a verifiable project:\n\n* Build → Launch fast with composable tools\n* Grow → Activate your first believers and contributors\n* Raise → Navigate the path to capital in modular, infra-first ecosystems\n\nExpect hands-on sessions, no-fluff convos, and quality brunch vibes with a community of on-chain builders.",
+    organizers: ["vlayer labs"],
+    venue: {
+      name: "Second Culture",
+      address: "Dělnická 475/43, 170 00 Praha 7-Holešovice, Czechia"
+    },
+    tags: ["Meetup", "Brunch", "Networking", "Web3"]
+  },
+  {
+    id: "hacker-breakfast-flow",
+    name: "Hacker Breakfast - Enter The Flow State",
+    date: "May 30, 2025",
+    dateISO: "2025-05-30",
+    time: "9:00 - 12:30",
+    short_description: "Hackathons are won before they officially begin. Join the Flow & LayerZero core teams to sharpen your winning edge.",
+    tickets: "https://lu.ma/h6aywbz5",
+    confirmed: true,
+    location: "Prague",
+    description: "Hackathons are won before they officially begin.\n\nThis isn't just breakfast; it's your strategic head start. Join the Flow & LayerZero core teams to sharpen your winning edge. We're a 5-min walk from the venue.\n\nWhy you need to be there:\n\n☕️ Fuel & Focus (9 AM - 12:30 PM): Breakfast is on us. The real gain? Critical insights and connections.\n\n🧠 Direct Access: Get unfiltered advice from Flow & LayerZero experts.\n\n🛠️ Refine & Validate: Pressure-test your ideas with experts before the sprint.\n\nWalk in prepared to win, not just participate. This is your early advantage. Take it.\n\nP.S. Scope out Flow and LayerZero's ETHGlobal bounties and strategize your win with us:\nhttps://ethglobal.com/events/prague/prizes/flow\nhttps://ethglobal.com/events/prague/prizes/layerzero",
+    organizers: ["Flow.com", "LayerZero"],
+    venue: {
+      name: "Fresherie Bistro",
+      address: "2c, Hvězdova 1734, 140 00 Praha 4-Nusle, Czechia"
+    },
+    tags: ["Breakfast", "Hackathon", "Networking", "ETHGlobal Side Event"]
+  },
+  {
+    id: "filecoin-corgi-memethon",
+    name: "Filecoin Code n' Corgi Prague: Meme-a-thon",
+    date: "May 30, 2025",
+    dateISO: "2025-05-30",
+    time: "11:30 - 13:30",
+    short_description: "Love memes? Create memes or comic strips celebrating Filecoin builders, the developer ecosystem, or demystifying tech through humor.",
+    tickets: "https://lu.ma/vyqhbucj",
+    confirmed: true,
+    location: "Prague",
+    description: "Love memes? You need to be here. 💯\n\nMeme-a-thon\nCreate memes or comic strips celebrating Filecoin builders, the developer ecosystem, or demystifying tech through humor. Whether it's a clever joke, an inside dev reference, or an educational comic - bring your creativity and make the ecosystem laugh and learn!\n\nMake your submission here. A special prize awaits for you 🏆\n\nJoin us for a lighthearted and lively gathering of Filecoin builders, devs, and community friends - just steps away from the ETHGlobal Prague venue!\n\nExpect laughs, plushie corgis (yes, limited edition Prague plushies 🧸), and plenty of Filecoin camaraderie. 💙\n\n🥙 Food and drinks on us.\n\nCome for the memes and corgis, stay for the code and the community.\n\nAgenda:\n\n11:30 AM – 11:45 AM\n👋 Welcome & Corgi Check-In\nGrab your swags, meet fellow Filecoin frens, and get comfy.\n\n11:45 AM – 12:30 PM\n🧠 Lightning Tech Talks\nShort, snappy talks from Filecoin builders and community legends.\n\n12:30 PM – 1:00 PM\n😂 Meme-a-thon\nBring your meme game! We'll showcase the best Filecoin memes.\n\n1:00 PM – 1:30 PM\n🍽 Lunch, Laughs & Lounge\nDelicious food, more corgi cuddles, and quality convos.",
+    organizers: ["Code n' Corgi 🐾", "FIL-B", "Filecoin Foundation", "TUM Blockchain Club"],
+    venue: {
+      name: "PAN83 Bar & Restaurant",
+      address: "Milevská 1695/7, 140 00 Praha 4-Krč, Czechia"
+    },
+    tags: ["Meetup", "Memes", "Filecoin", "Community", "ETHGlobal Side Event"]
   }
 ]; 
