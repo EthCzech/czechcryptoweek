@@ -522,5 +522,23 @@ export const fallbackEvents = [
       address: "Milevská 1695/7, 140 00 Praha 4-Krč, Czechia"
     },
     tags: ["Meetup", "Memes", "Filecoin", "Community", "ETHGlobal Side Event"]
+  },
+  {
+    id: "akave-workshop",
+    name: "Build a Private Data Pipeline for AI Agents with Akave",
+    date: "May 30, 2025",
+    dateISO: "2025-05-30",
+    time: "9:30 - 11:30",
+    short_description: "Start your ETHGlobal Prague weekend with Akave's immersive, hands-on workshop focused on building private, AI-native data pipelines.",
+    tickets: "https://lu.ma/dma0dxns",
+    confirmed: true,
+    location: "Prague",
+    description: "Start your ETHGlobal Prague weekend with Akave's immersive, hands-on workshop focused on building private, AI-native data pipelines using our latest MCP server configuration and O3 (S3-compatible) decentralized storage.\n\nWhether you're new to Akave or looking to integrate Filecoin-backed workflows into your stack, this session is your soft landing into the future of AI x storage.\n\n**🔧 What You'll Learn:**\n\n* Intro to Akave: Why decentralized, programmable storage matters\n* What is Akave O3: Unlocking S3 compatibility for AI workflows\n  * Get exclusive access to our O3 functionality\n* The AI x Data Opportunity: How to power your agents with private, persistent data\n* Build Demos & Use Cases:\n  * AI pipelines with Rclone, Snowflake, MCP Server, VLC, and more\n  * Step-by-step: Build private AI agents that talk to your data\n* Feedback + Idea Jam: Share your project ideas, get live feedback, and maybe win some exclusive Akave swag 🧢✨\n\n**🌟 Perks:**\n\n* Early access to the Akave O3 SDK\n* Direct feedback from Akave CTO, Angelo Schalley and the Akave core team\n* Chill builder lounge vibes with free breakfast, coffee, swag, and community energy\n\nWhether you're building solo or forming a team, this is the perfect space to experiment, ask questions, and connect - all before the hackathon chaos kicks off.\n\n**🗓 Agenda**\n\n9:30 - 10:00 am: Arrival, Welcome Drinks (coffee, tea, check-in) & Breakfast\n\n10:00 – 10:15 am: Intro to Akave + Filecoin — Storage for Builders\n\n10:15 – 11:15 am: Hands-on: Communicate with Your Storage Using AI (MCP version)\n\n11:15 – 11:30 am: Connect 1:1 with the Akave Team",
+    organizers: ["Vyzen E", "Angela Reyna", "Filecoin Foundation"],
+    venue: {
+      name: "PAN83 Bar & Restaurant",
+      address: "Milevská 1695/7, 140 00 Praha 4-Krč, Czechia"
+    },
+    tags: ["Workshop", "AI", "Storage", "Filecoin", "ETHGlobal Side Event"]
   }
 ]; 
