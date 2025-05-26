@@ -9,7 +9,7 @@
     "tickets": "https://lu.ma/9vy7mej1",
     "confirmed": true,
     "location": "Prague",
-    "tags": ["Social", "Community", "Opening"]
+    "tags": ["Social"]
   },
   {
     "id": "ethprague2025",
@@ -22,7 +22,7 @@
     "location": "Prague",
     "description": "ETHPrague is a leading Ethereum conference focusing on innovation, development, and the future of web3. Join developers, entrepreneurs, and enthusiasts for three days of talks, workshops, and networking in the heart of Prague.",
     "organizers": ["ETHPrague Team"],
-    "tags": ["Conference", "Ethereum"]
+    "tags": ["Conference"]
   },
   {
     "id": "interoperability-meetup-prague",
@@ -40,7 +40,7 @@
       "name": "Second Culture",
       "address": "Dělnická 475/43, 170 00 Praha 7-Holešovice, Czechia"
     },
-    "tags": ["Meetup", "Interoperability", "Scaling", "EVM", "Solana", "Multichain", "Networking", "ETHPrague Side Event"]
+    "tags": ["Meetup", "Side Event"]
   },
   {
     "id": "ethglobal",
@@ -58,7 +58,7 @@
       "address": "Na Strži 2097/63, 140 00 Praha 4-Nusle, Czechia"
     },
     "prizes": "$175,000 available in prizes from sponsors including Blockscout, 1inch, LayerZero, Flow, Pyth Network, Chainlink, and more",
-    "tags": ["Hackathon", "Ethereum"]
+    "tags": ["Hackathon"]
   },
   {
     "id": "based-house-prague",
@@ -77,7 +77,7 @@
       "name": "Register to See Address",
       "address": "Prague, Prague"
     },
-    "tags": ["Workshop", "Developer", "Networking", "Layer2", "Base", "Hive", "ETHGlobal Side Event"]
+    "tags": ["Workshop", "Side Event"]
   },
   {
     "id": "protolayers",
@@ -90,7 +90,7 @@
     "location": "Prague",
     "description": "Join ProtoLayers for a deep dive into cutting-edge Ethereum research and development. This focused event brings together researchers and developers to discuss the latest advances in Ethereum protocol, layer-2 solutions, and scaling technologies.",
     "organizers": ["Damsky", "ProtoLayers Team"],
-    "tags": ["Conference", "R&D", "Layer2"]
+    "tags": ["Conference"]
   },
   {
     "id": "urbecampus",
@@ -104,7 +104,7 @@
     "location": "Prague",
     "description": "Urbe Campus is a 4-day bootcamp where students and beginner developers will be able to go from zero to hero with their Web3 development skills. This hands-on learning experience is designed to help newcomers quickly build practical Web3 development competencies.",
     "organizers": ["Urbe.eth Team"],
-    "tags": ["Bootcamp", "Education", "Developer"]
+    "tags": ["Workshop"]
   },
   {
     "id": "bob-hybrid-and-chill-meetup-prague",
@@ -122,7 +122,7 @@
       "name": "TBC",
       "address": "Prague"
     },
-    "tags": ["Meetup", "Bitcoin", "DeFi", "Layer2", "Networking", "Community"]
+    "tags": ["Meetup", "Side Event"]
   },
   {
     "id": "meetup",
@@ -134,7 +134,7 @@
     "tickets": "https://lu.ma/t0w4wu0b",
     "confirmed": true,
     "location": "Prague",
-    "tags": ["Meetup", "ZK", "Networking", "Community", "ETHPrague Side Event"]
+    "tags": ["Meetup", "Side Event"]
   },
   {
     "id": "crypto-outdoor-workout-eth-prague",
@@ -148,7 +148,7 @@
     "location": "Prague",
     "description": "🏃‍♀️ Suitable for ANY fitness level 🏃‍♂️\n\nTake a break from the conference discussions and burn some calories gained from all those Czech beers 🍺 you will have knocked over by the middle of the week - at our traditional outdoor workout! 💪\n\nExpect a bit of everything:\n* ​warm-up\n* ​squats\n* ​push-ups\n* ​Vepřo Koleno\n* ​chin-ups\n* ​dips\n* ​abs\n* ​stretches\n* ​// Find the odd one out 🤣\n\nFeel free to: \n* ​exercise with our coach\n* ​work out on your own\n* ​keep your own pace (leave early if you need to)\n\n**********\n**High-protein snacks 🍫 and drinking water 💧 provided, as always!**\n**********\n\nSupported by:\nWirex Pay - cutting-edge stablecoin payment platform, combining blockchain innovation with real-world usability for seamless global transactions. Incubated by Wirex, the leading crypto debit card issuer since 2015.\nCTRL - non-profit community of open-source contributors.\nMighty.study - gamified platform for incentivised learning.\n\n**********\n\nIf interested in getting updates about other workout events that we run at crypto and fintech conferences, feel free to join our Telegram channel: https://t.me/crypto_outdoor_workout",
     "organizers": ["Wirex Pay"],
-    "tags": ["Social", "Workout", "Fitness", "Community", "Wellbeing", "ETHPrague Side Event"],
+    "tags": ["Social", "Side Event"],
     "venue": {
       "name": "Prague (Exact location TBC)",
       "address": "// exact location to be confirmed //"
@@ -166,11 +166,7 @@
     "location": "Prague",
     "description": "​Are you attending ETHGlobal Hackathon in Prague? Looking to connect, brainstorm ideas, and meet fellow builders before the event kicks off?\n\n​​Join Rootstock for a laid-back pre-hackathon meetup in Prague! \n\n​​This is your chance to meet like-minded hackers, bounce ideas around, and get inspired—all in a relaxed, friendly atmosphere. No formal agenda—just good conversations, great people, and plenty of fun.\n\n​​We've got food, drinks and exclusive Rootstock merch waiting for you. Whether you're new to Rootstock or already familiar, our team will be there to chat about how you can leverage your Ethereum skills to build on Bitcoin.  \n  \n​**Who's joining?**  \n🔥 **Rootstock Collective** – Empowering and rewarding builders and backers to drive innovation in Bitcoin's most trusted Layer 2.  \n🌍 **Flow** – The leader in Web3 consumer crypto apps, with over **40M+ on-chain wallets** spanning X, Instagram, collectibles and more.  \n  \n**About Rootstock**\n\n​​Rootstock has been the leading Bitcoin Layer 2 since 2018, combining Ethereum's development ecosystem with Bitcoin's security and decentralization. It's fully EVM-compatible, supports Solidity, and leverages over 80% of Bitcoin's hash power through merged-mined proof-of-work. Translation? You can take your Ethereum skills, deploy them on Bitcoin, and build something epic—no extra tools needed. Ready to dive in?",
     "organizers": ["Rootstock", "RootstockCollective", "Flow.com"],
-    "tags": ["Meetup", "Developer", "Networking", "Hackathon", "Bitcoin", "Layer2", "ETHGlobal Side Event"],
-    "venue": {
-      "name": "Second Culture",
-      "address": "Dělnická 475/43, 170 00 Praha 7-Holešovice, Czechia"
-    }
+    "tags": ["Meetup", "Side Event"]
   },
   {
     "id": "web3privacy",
@@ -189,7 +185,7 @@
       "address": "Prague",
       "map": "https://maps.app.goo.gl/1as8DCNw9aDz2wKB8"
     },
-    "tags": ["Meetup", "Privacy", "Human Rights", "Open Source"]
+    "tags": ["Meetup", "Side Event"]
   },
   {
     "id": "ackee",
@@ -208,7 +204,7 @@
       "address": "Rohanské nábř. 717/4, 186 00 Praha 8-Karlín, Czechia",
       "maps": "https://maps.app.goo.gl/DRCuYhwLVgJ9jewe6"
     },
-    "tags": ["Meetup", "Social", "Networking", "Breakfast"]
+    "tags": ["Social"]
   },
   {
     "id": "beerfi",
@@ -227,13 +223,13 @@
       "address": "Vacínova 876/10, Hlavní město Praha",
       "map": "https://maps.app.goo.gl/oBhBZ4XXLe5HSpK16"
     },
-    "tags": ["Meetup", "Developer", "Smart Contracts"]
+    "tags": ["Meetup"]
   },
   {
     "id": "onlydust",
     "name": "OnlyDust Open Source Meetup",
     "confirmed": false,
-    "tags": ["Meetup", "Open Source"]
+    "tags": ["Meetup"]
   },
   {
     "id": "ethglobal-happy-hour",
@@ -247,7 +243,7 @@
     "location": "Prague",
     "description": "Get ready to party with the ETHGlobal community in the heart of Prague! On Thursday, May 29 2025, from 6:00 PM to 8:30 PM, join for an unforgettable evening of drinks, laughs, and making new connections. Whether you're a blockchain enthusiast, a hacker, or just someone who loves a good time, this is the place to be.",
     "organizers": ["ETHGlobal"],
-    "tags": ["Social", "Networking", "Community"]
+    "tags": ["Social"]
   },
   {
     "id": "logos",
@@ -259,25 +255,25 @@
     "id": "dablclub",
     "name": "Dabl.Club Workshop/Bootcamp",
     "confirmed": false,
-    "tags": ["Workshop", "Bootcamp"]
+    "tags": ["Workshop"]
   },
   {
     "id": "zkhack",
     "name": "ZKHack Meetup",
     "confirmed": false,
-    "tags": ["Meetup", "ZKP"]
+    "tags": ["Meetup"]
   },
   {
     "id": "longevity",
     "name": "Longevity Meetup",
     "confirmed": false,
-    "tags": ["Meetup", "Longevity"]
+    "tags": ["Meetup"]
   },
   {
     "id": "polkadot",
     "name": "Polkadot Meetup",
     "confirmed": false,
-    "tags": ["Meetup", "Polkadot"]
+    "tags": ["Meetup"]
   },
   {
     "id": "institutional-blockchain-breakfast",
@@ -291,7 +287,7 @@
     "location": "Hlavní město Praha, Hlavní město Praha",
     "description": "🌅 Rise with Us at the Institutional Blockchain Breakfast. A Private Side Event During ETHPrague 2025. Start your morning with signal, not noise. We're bringing together institutions, ecosystem operators, and infrastructure teams for an off-the-record morning of sharp roundtables, meaningful chats, and focused networking — all with a builder-first mindset. Coffee, not panels. Real use cases, not hypotheticals. This is where next-gen institutional blockchain adoption gets dissected.",
     "organizers": ["GTS 20"],
-    "tags": ["Breakfast", "Networking", "Institutional", "ETHPrague Side Event"],
+    "tags": ["Social", "Side Event"],
     "venue": {
       "name": "Register to See Address",
       "address": "Hlavní město Praha, Hlavní město Praha"
@@ -307,7 +303,7 @@
     "tickets": "https://lu.ma/mb88e9jr",
     "confirmed": true,
     "location": "Prague",
-    "tags": ["Meetup", "Accelerator", "Networking", "ETHPrague Side Event"]
+    "tags": ["Meetup", "Side Event"]
   },
   {
     "id": "builder-nights-prague",
@@ -319,7 +315,7 @@
     "tickets": "https://lu.ma/bnprague",
     "confirmed": true,
     "location": "Prague",
-    "tags": ["Meetup", "Networking", "Developer", "Web3", "Layer2", "ETHGlobal Side Event"]
+    "tags": ["Meetup", "Side Event"]
   },
   {
     "id": "alternative-currencies-breakfast",
@@ -331,7 +327,7 @@
     "tickets": "https://lu.ma/zlp0inzh",
     "confirmed": true,
     "location": "Prague",
-    "tags": ["Breakfast", "Alternative Currencies", "Networking", "ETHPrague Side Event"]
+    "tags": ["Social", "Side Event"]
   },
   {
     "id": "verifiable-brunch",
@@ -349,7 +345,7 @@
       "name": "Second Culture",
       "address": "Dělnická 475/43, 170 00 Praha 7-Holešovice, Czechia"
     },
-    "tags": ["Meetup", "Brunch", "Networking", "Web3"]
+    "tags": ["Social", "Side Event"]
   },
   {
     "id": "hacker-breakfast-flow",
@@ -367,7 +363,7 @@
       "name": "Fresherie Bistro",
       "address": "2c, Hvězdova 1734, 140 00 Praha 4-Nusle, Czechia"
     },
-    "tags": ["Breakfast", "Hackathon", "Networking", "ETHGlobal Side Event"]
+    "tags": ["Social", "Side Event"]
   },
   {
     "id": "filecoin-corgi-memethon",
@@ -385,7 +381,7 @@
       "name": "PAN83 Bar & Restaurant",
       "address": "Milevská 1695/7, 140 00 Praha 4-Krč, Czechia"
     },
-    "tags": ["Meetup", "Memes", "Filecoin", "Community", "ETHGlobal Side Event"]
+    "tags": ["Social", "Side Event"]
   },
   {
     "id": "akave-workshop",
@@ -403,6 +399,6 @@
       "name": "PAN83 Bar & Restaurant",
       "address": "Milevská 1695/7, 140 00 Praha 4-Krč, Czechia"
     },
-    "tags": ["Workshop", "AI", "Storage", "Filecoin", "ETHGlobal Side Event"]
+    "tags": ["Workshop", "Side Event"]
   }
 ]
