@@ -540,5 +540,18 @@ export const fallbackEvents = [
       address: "Milevská 1695/7, 140 00 Praha 4-Krč, Czechia"
     },
     tags: ["Workshop", "Side Event"]
+  },
+  {
+    id: "crypto-rave",
+    name: "Crypto Rave by EVAA Protocol",
+    date: "May 29, 2025",
+    dateISO: "2025-05-29",
+    short_description: "An underground night of music, lights, and decentralized vibes during ETH Global Prague.",
+    tickets: "https://lu.ma/7zftc5gk",
+    confirmed: true,
+    location: "Prague",
+    description: "Get ready to break out of the conference bubble and dive into the raw, unfiltered side of Web3 culture. EVAA Protocol invites you to CRYPTO RAVE – an underground night of music, lights, and decentralized vibes during ETH Global Prague. Expect cutting-edge DJs, immersive visuals, and real human connections beyond the usual panel talks.",
+    organizers: ["EVAA Protocol"],
+    tags: ["Social", "Side Event"]
   }
 ]; 
