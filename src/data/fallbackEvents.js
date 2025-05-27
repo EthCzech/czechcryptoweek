@@ -553,5 +553,23 @@ export const fallbackEvents = [
     description: "Get ready to break out of the conference bubble and dive into the raw, unfiltered side of Web3 culture. EVAA Protocol invites you to CRYPTO RAVE – an underground night of music, lights, and decentralized vibes during ETH Global Prague. Expect cutting-edge DJs, immersive visuals, and real human connections beyond the usual panel talks.",
     organizers: ["EVAA Protocol"],
     tags: ["Social", "Side Event"]
+  },
+  {
+    id: "web3-viewpoint",
+    name: "WEB3 VIEWPOINT | ETH GLOBAL OPENING MIXER",
+    date: "May 30, 2025",
+    dateISO: "2025-05-30",
+    short_description: "An exclusive early evening gathering for Web3 founders, builders, and VCs.",
+    website: "https://lu.ma/3iovwyvy",
+    confirmed: true,
+    location: "Prague",
+    description: "Join EVAA Protocol for an exclusive early evening gathering designed for Web3 founders, builders, and VCs looking to connect beyond the noise. Curated for meaningful conversations, aligned visions, and serendipitous intros. No panels, no pitches – just good people, good wine, and sharp minds.",
+    organizers: ["EVAA Protocol"],
+    venue: {
+      name: "Café Vítkov",
+      address: "U Památníku 1900, 130 00 Praha 3-Žižkov, Czechia",
+      map: "https://maps.app.goo.gl/replace-with-real-map-link"
+    },
+    tags: ["Social", "Side Event"]
   }
 ]; 
