@@ -560,7 +560,7 @@ export const fallbackEvents = [
     date: "May 30, 2025",
     dateISO: "2025-05-30",
     short_description: "An exclusive early evening gathering for Web3 founders, builders, and VCs.",
-    website: "https://lu.ma/3iovwyvy",
+    tickets: "https://lu.ma/3iovwyvy",
     confirmed: true,
     location: "Prague",
     description: "Join EVAA Protocol for an exclusive early evening gathering designed for Web3 founders, builders, and VCs looking to connect beyond the noise. Curated for meaningful conversations, aligned visions, and serendipitous intros. No panels, no pitches – just good people, good wine, and sharp minds.",
