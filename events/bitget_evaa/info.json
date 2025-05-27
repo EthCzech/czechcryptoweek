@@ -1,0 +1,18 @@
+{
+  "id": "crypto-rave",
+  "name": "CRYPTO RAVE by Bitget & EVAA",
+  "date": "May 29, 2025",
+  "dateISO": "2025-05-29",
+  "short_description": "An underground night of music, lights, and decentralized vibes during ETH Global Prague.",
+  "website": "https://lu.ma/your-event-link",
+  "confirmed": true,
+  "location": "Prague",
+  "description": "Get ready to break out of the conference bubble and dive into the raw, unfiltered side of Web3 culture. EVAA Protocol invites you to CRYPTO RAVE – an underground night of music, lights, and decentralized vibes during ETH Global Prague. Expect cutting-edge DJs, immersive visuals, and real human connections beyond the usual panel talks.",
+  "organizers": ["EVAA Protocol", "Kirill Kruszewski", "Bitget"],
+  "venue": {
+    "name": "Fuchs2",
+    "address": "ostrov Štvanice, Holešovice, 170 00 Praha 7, Czechia",
+    "map": "https://maps.app.goo.gl/your-map-link"
+  },
+  "tags": ["Party", "Networking", "Music", "Web3"]
+}
